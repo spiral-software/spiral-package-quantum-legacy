@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is obsolete and no longer maintained.**
+> Active development and modern Qiskit/OpenQASM support have moved to the current package:
+> **[spiral-package-quantum](https://github.com/spiral-software/spiral-package-quantum)**.
+
 # spiral-package-quantum
 SPIRAL Package Supporting Quantum Computing
 
